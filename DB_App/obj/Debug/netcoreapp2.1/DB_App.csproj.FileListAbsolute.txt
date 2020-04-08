@@ -1,0 +1,11 @@
+C:\Users\Андрей\source\repos\DB_Solution\DB_App\bin\Debug\netcoreapp2.1\DB_App.deps.json
+C:\Users\Андрей\source\repos\DB_Solution\DB_App\bin\Debug\netcoreapp2.1\DB_App.runtimeconfig.json
+C:\Users\Андрей\source\repos\DB_Solution\DB_App\bin\Debug\netcoreapp2.1\DB_App.runtimeconfig.dev.json
+C:\Users\Андрей\source\repos\DB_Solution\DB_App\bin\Debug\netcoreapp2.1\DB_App.dll
+C:\Users\Андрей\source\repos\DB_Solution\DB_App\bin\Debug\netcoreapp2.1\DB_App.pdb
+C:\Users\Андрей\source\repos\DB_Solution\DB_App\obj\Debug\netcoreapp2.1\DB_App.csprojAssemblyReference.cache
+C:\Users\Андрей\source\repos\DB_Solution\DB_App\obj\Debug\netcoreapp2.1\DB_App.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\source\repos\DB_Solution\DB_App\obj\Debug\netcoreapp2.1\DB_App.AssemblyInfoInputs.cache
+C:\Users\Андрей\source\repos\DB_Solution\DB_App\obj\Debug\netcoreapp2.1\DB_App.AssemblyInfo.cs
+C:\Users\Андрей\source\repos\DB_Solution\DB_App\obj\Debug\netcoreapp2.1\DB_App.dll
+C:\Users\Андрей\source\repos\DB_Solution\DB_App\obj\Debug\netcoreapp2.1\DB_App.pdb
